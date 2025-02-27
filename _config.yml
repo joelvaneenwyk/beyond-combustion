@@ -1,10 +1,13 @@
 theme: jekyll-theme-slate
 title: "BeyondCombustion.net's 'The Book' (Formerly The Consensus) and 'The List'"
 descripton: "Open source guides to help assist those new to the space make an efficient and healthier choice by having all information available in one place."
-domain: beyondcombustion.net       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://beyondcombustion.net  # the base hostname and protocol for your site, e.g. http://example.com
+# if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+domain: beyondcombustion.net       
+# the base hostname and protocol for your site, e.g. http://example.com
+url: https://beyondcombustion.net  
+
 # Your name, as you want it to appear underneath each post and in the footer
-author: ProfessionalHandJob
+author: Pro
 
 # Your email if you want it to be linked on the contact page
 author_email: admin@beyondcombustion.net
@@ -18,41 +21,42 @@ date_format: "%Y-%m-%d"
 
 permalink: pretty
 
-#include:
-#  - Arizer
-#  - Artisan
-#  - Boundless
-#  - Cannabis Hardware
-#  - DIY Builds
-#  - Davinci
-#  - Ditanium
-#  - Divine Tribe
-#  - Dynavap
-#  - Elev8 Glass Gallery
-#  - Epic Vape
-#  - Firewood Aromatech
-#  - Flowermate
-#  - Healthy Rips
-#  - Herborizer
-#  - JTJS Products
-#  - ModPod Labs
-#  - No Longer In Production
-#  - POTV
-#  - Pax
-#  - Prrl Labs
-#  - Sticky Brick Labs
-#  - Storz & Bickel
-#  - Tafée
-#  - Vivant
-#  - What to Avoid
-#  - XVape USA
-#  - dotLeaf
-# plugins:
-#   - jekyll-paginate
-#   - jekyll-sitemap
-#   - jekyll-gist
-#   - jekyll-feed
-#   - jemoji
-#   - jekyll-include-cache
-#   - jekyll-remote-theme
-#   paginate: 3
+include:
+  - Arizer
+  - Artisan
+  - Boundless
+  - Cannabis Hardware
+  - DIY Builds
+  - Davinci
+  - Ditanium
+  - Divine Tribe
+  - Dynavap
+  - Elev8 Glass Gallery
+  - Epic Vape
+  - Firewood Aromatech
+  - Flowermate
+  - Healthy Rips
+  - Herborizer
+  - JTJS Products
+  - ModPod Labs
+  - No Longer In Production
+  - POTV
+  - Pax
+  - Prrl Labs
+  - Sticky Brick Labs
+  - Storz & Bickel
+  - Tafée
+  - Vivant
+  - What to Avoid
+  - XVape USA
+  - dotLeaf
+
+paginate: 3
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-remote-theme
