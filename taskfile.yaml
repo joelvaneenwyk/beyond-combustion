@@ -1,0 +1,11 @@
+# https://taskfile.dev
+
+version: "3"
+
+tasks:
+  default:
+    cmds:
+      - gem install bundle
+      - bundle install
+      - bundle exec jekyll build
+      - bundle exec jekyll serve --livereload
