@@ -2,21 +2,8 @@
 
 source "https://rubygems.org"
 
-gem "github-pages"
+gem "github-pages", "~> 232"
 
-gem "jekyll"
-gem "jekyll-include-cache"
-gem "jekyll-octicons"
-gem "jekyll-paginate"
-gem "jekyll-sitemap"
-gem "jekyll-gist"
-gem "jekyll-feed"
-gem "jekyll-remote-theme"
-
-gem "jemoji"
-
-group :test do
-  gem "rubocop", "~> 0.79"
-  gem "rubocop-performance"
-  gem "webmock"
-end
+gem "rubocop"
+gem "rubocop-performance"
+gem "webmock"
