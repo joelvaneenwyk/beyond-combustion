@@ -1,3 +1,8 @@
+---
+layout: default
+title: "BeyondCombustion's 'The List'"
+---
+
 # BeyondCombustion's 'The List'
 
 ## An index of device makers and manufacturers
