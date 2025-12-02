@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Firewood 7"
+---
+
 # Firewood 7
 ## Firewood Aromatech
 

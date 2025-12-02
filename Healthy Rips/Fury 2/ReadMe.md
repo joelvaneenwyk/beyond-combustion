@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Fury 2"
+---
+
 # Fury 2
 ## Healthy Rips
 

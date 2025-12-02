@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Grasshopper Common Fixes"
+---
+
 # Grasshopper Common Fixes
 
 ## Troubleshooting Flowchart

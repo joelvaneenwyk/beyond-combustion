@@ -1,3 +1,8 @@
+---
+layout: default
+title: "[The Couch Log](https://www.420eng.com/)"
+---
+
 # [The Couch Log](https://www.420eng.com/)
 ## By 420eng
 

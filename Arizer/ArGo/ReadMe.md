@@ -1,3 +1,8 @@
+---
+layout: default
+title: "ArGo"
+---
+
 # ArGo
 ## Arizer
 

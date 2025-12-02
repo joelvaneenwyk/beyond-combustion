@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Ditanium"
+---
+
 # Ditanium
 ![image](https://user-images.githubusercontent.com/104687767/166604402-e40274b5-3c6f-4748-91ed-60f4e92cd9e1.png)
 

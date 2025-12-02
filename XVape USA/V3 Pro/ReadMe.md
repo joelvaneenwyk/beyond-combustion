@@ -1,3 +1,8 @@
+---
+layout: default
+title: "XMax V3 Pro"
+---
+
 # XMax V3 Pro 
 ## XVape USA
 ![V3proPurple](https://user-images.githubusercontent.com/104687767/166159473-976e0cef-9986-4786-b8dd-7076b9ee70da.png)

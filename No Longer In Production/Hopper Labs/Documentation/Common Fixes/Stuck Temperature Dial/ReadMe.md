@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Fix For a Stuck Temperature Dial"
+---
+
 # Fix For a Stuck Temperature Dial
 
 [Vapor_Eyes said:](https://fuckcombustion.com/goto/post?id=1099723)

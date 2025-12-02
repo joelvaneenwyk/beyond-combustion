@@ -1,3 +1,8 @@
+---
+layout: default
+title: "REFC Advanced Telemetry Module"
+---
+
 # REFC Advanced Telemetry Module
 
 ![image](https://user-images.githubusercontent.com/104687767/166171313-32c0e5ee-79bc-4d4c-8971-dab789f453e0.png)

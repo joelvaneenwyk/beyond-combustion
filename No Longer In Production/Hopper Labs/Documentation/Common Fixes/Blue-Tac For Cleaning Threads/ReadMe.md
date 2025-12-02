@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Blue-Tac for cleaning threads"
+---
+
 # Blue-Tac for cleaning threads
 
 ## [MoltenTiger](https://fuckcombustion.com/goto/post?id=1028097) said:

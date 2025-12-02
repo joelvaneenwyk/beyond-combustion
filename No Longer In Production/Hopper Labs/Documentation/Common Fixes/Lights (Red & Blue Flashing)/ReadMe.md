@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Hopper was stuck on Red/Blue flashing (Sensor Damage) Lights. here's how I fixed it"
+---
+
 Thought this was a great post by u/Reeces_Pieces over on Reddit, so I decided to bring it here:
 
 Title: Hopper was stuck on Red/Blue flashing (Sensor Damage) Lights. here's how I fixed it

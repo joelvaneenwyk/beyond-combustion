@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Hopper IO"
+---
+
 # Hopper IO
 ## Hopper Labs
 

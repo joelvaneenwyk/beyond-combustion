@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Troubleshooting Grasshopper Turning Off After Red Light"
+---
+
 # Troubleshooting Grasshopper Turning Off After Red Light
 
 [JoeMama said:](https://fuckcombustion.com/goto/post?id=1033136)

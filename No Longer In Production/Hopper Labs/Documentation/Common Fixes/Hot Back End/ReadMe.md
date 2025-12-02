@@ -1,3 +1,8 @@
+---
+layout: default
+title: "[Vapor_Eyes](https://fuckcombustion.com/goto/post?id=1000624) said:"
+---
+
 ## [Vapor_Eyes](https://fuckcombustion.com/goto/post?id=1000624) said:
 I found that very interesting, especially the part about the temp dial. Thanks for posting it.
 

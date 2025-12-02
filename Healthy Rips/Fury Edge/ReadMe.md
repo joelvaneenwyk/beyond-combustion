@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Healthy Rips Fury Edge"
+---
+
 # Healthy Rips Fury Edge
 ![image](https://user-images.githubusercontent.com/104687767/166161659-cfb00c82-f8ac-476c-8431-808ddfb61e9d.png)
 
