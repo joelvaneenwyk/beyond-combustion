@@ -4,4 +4,4 @@ title: "Air Max"
 ---
 
 # Air Max
-## Airzer
+## Arizer
