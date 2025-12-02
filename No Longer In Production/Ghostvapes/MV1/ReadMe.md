@@ -1,3 +1,8 @@
+---
+layout: default
+title: "MV1"
+---
+
 # MV1
 # Ghostvapes
 

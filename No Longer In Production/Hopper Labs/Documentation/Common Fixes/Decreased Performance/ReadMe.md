@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Fixes For Decreased Performance:"
+---
+
 # Fixes For Decreased Performance:
 
 ## [johnnyCanuck said:](https://fuckcombustion.com/goto/post?id=1004307)

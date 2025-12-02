@@ -1,3 +1,8 @@
+---
+layout: default
+title: "The Lotus"
+---
+
 # The Lotus
 ## By Lotus Vaporizer
 

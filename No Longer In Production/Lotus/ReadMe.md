@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Lotus Vaporizer"
+---
+
 # Lotus Vaporizer
 ### 2010-2021
 

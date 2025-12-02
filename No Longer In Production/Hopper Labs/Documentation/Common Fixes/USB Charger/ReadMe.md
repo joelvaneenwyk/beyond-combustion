@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Fixes For Malfunctioning USB Charger:"
+---
+
 # Fixes For Malfunctioning USB Charger:
 
 ## [crazferret said:](https://fuckcombustion.com/goto/post?id=1007666)

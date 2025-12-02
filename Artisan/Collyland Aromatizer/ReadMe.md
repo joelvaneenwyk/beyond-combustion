@@ -1,3 +1,8 @@
+---
+layout: default
+title: "[Collyland Aromatizer](https://www.colly.land/) (aka Vapbong, Vapdong, Dongbong)"
+---
+
 # [Collyland Aromatizer](https://www.colly.land/) (aka Vapbong, Vapdong, Dongbong)
 ## Art of Vapor GmbH
 

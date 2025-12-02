@@ -1,3 +1,8 @@
+---
+layout: default
+title: "The Crafty"
+---
+
 # The Crafty
 ## Storz & Bickel
 

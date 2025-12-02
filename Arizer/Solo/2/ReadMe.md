@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Solo 2"
+---
+
 # Solo 2
 ## Arizer
 

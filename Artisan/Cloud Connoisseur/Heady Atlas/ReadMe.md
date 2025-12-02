@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Heady Atlas"
+---
+
 # Heady Atlas
 ## Cloud Connoisseur
 
